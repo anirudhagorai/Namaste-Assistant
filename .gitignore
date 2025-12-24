@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+assistant_env/
+venv/
+.env
+
+# Build & installer files
+build/
+dist/
+dist_installer/
+*.exe
+*.pkg
+
+# IDE
+.vscode/
+
+# OS files
+Thumbs.db
+.DS_Store

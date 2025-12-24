@@ -1,0 +1,18 @@
+Desktop Assistant/
+│
+├── main.py                # Entry point (runs the assistant with GUI)
+│
+├── gui/
+│   ├── __init__.py
+│   ├── app_gui.py          # Tkinter GUI code
+│
+├── core/
+│   ├── __init__.py
+│   ├── voice.py            # Speech recognition + TTS
+│   ├── commands.py         # Command parser (decides what to do)
+│   ├── store_apps.py       # Functions to open Microsoft Store apps
+│
+├── assets/
+│   ├── icon.ico            # App icon for GUI & .exe
+│
+└── requirements.txt        # Dependencies
