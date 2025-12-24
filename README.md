@@ -1,6 +1,6 @@
 # Namaste Assistant 🤖
 
-A Python-based desktop voice assistant with GUI that will run offline/online mode.
+A Python-based desktop voice assistant with GUI that will run on offline/online mode.
 
 ## Features
 - Voice commands
